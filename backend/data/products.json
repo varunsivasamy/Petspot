@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Hamster",
+    "price": 2000,
+    "category": "others",
+    "image": "/images/dog1.jpg",
+    "description": "Cute and friendly hamster, perfect for kids"
+  },
+  {
+    "name": "Cat",
+    "price": 15000,
+    "category": "cat",
+    "image": "/images/1328474.jpeg",
+    "description": "Normal cat breed"
+  },
+  {
+    "name": "Doberman",
+    "price": 75000,
+    "category": "dog",
+    "image": "/images/horse1.jpg",
+    "description": "Energetic Doberman, 6 months old, great guard dog"
+  },
+  {
+    "name": "German Shepherd",
+    "price": 80000,
+    "category": "dog",
+    "image": "/images/german.jpg",
+    "description": "Loyal German Shepherd puppy, 5 months old"
+  },
+  {
+    "name": "Fish",
+    "price": 500,
+    "category": "fish",
+    "image": "/images/fish.jpg",
+    "description": "Colorful aquarium fish, ideal for home tanks"
+  },
+  {
+    "name": "Squirrel",
+    "price": 3000,
+    "category": "others",
+    "image": "/images/squirel.jpg",
+    "description": "Playful and cute squirrel, friendly and active"
+  },
+  {
+    "name": "Glider Squirrel",
+    "price": 4000,
+    "category": "others",
+    "image": "/images/glider.jpg",
+    "description": "Small gliding squirrel, perfect for exotic pet lovers"
+  },
+  {
+    "name": "Shire Horse",
+    "price": 120000,
+    "category": "horse",
+    "image": "/images/shire.jpg",
+    "description": "Gentle Shire horse, well-trained and healthy"
+  },
+  {
+    "name": "Fighter Fish",
+    "price": 700,
+    "category": "fish",
+    "image": "/images/fighter.jpg",
+    "description": "Beautiful and colorful betta fighter fish for aquarium"
+  },
+  {
+    "name": "Floweron",
+    "price": 2500,
+    "category": "fish",
+    "image": "/images/floweron.jpg",
+    "description": "Exotic small pet Floweron, vibrant and lively"
+  },
+  {
+    "name": "Rottweiler",
+    "price": 90000,
+    "category": "dog",
+    "image": "/images/rottweiler.jpg",
+    "description": "Strong Rottweiler puppy, loyal and protective"
+  },
+  {
+    "name": "Golden Retriever",
+    "price": 75000,
+    "category": "dog",
+    "image": "/images/golden.jpg",
+    "description": "Friendly Golden Retriever puppy, 3 months old, perfect family dog"
+  },
+  {
+    "name": "Persian Cat",
+    "price": 15000,
+    "category": "cat",
+    "image": "/images/persian.jpg",
+    "description": "Fluffy Persian kitten, 2 months old, very cuddly"
+  },
+  {
+    "name": "Lovebird",
+    "price": 4500,
+    "category": "bird",
+    "image": "/images/lovebird.jpg",
+    "description": "Colorful Lovebird, lively and social, perfect companion"
+  },
+  {
+    "name": "Dove",
+    "price": 2500,
+    "category": "bird",
+    "image": "/images/dove.jpg",
+    "description": "Peaceful Dove, beautiful and calm, ideal for indoor pets"
+  },
+  {
+    "name": "Rabbit",
+    "price": 3000,
+    "category": "others",
+    "image": "/images/rabbit.jpg",
+    "description": "Cute Rabbit, soft fur, friendly and playful"
+  },
+  {
+    "name": "Turtle",
+    "price": 2000,
+    "category": "others",
+    "image": "/images/turtle.jpg",
+    "description": "Calm Turtle, easy to maintain, great for terrariums"
+  },
+  {
+    "name": "Cockatiel",
+    "price": 6000,
+    "category": "bird",
+    "image": "/images/cocktail.jpg",
+    "description": "Friendly Cockatiel, 3 months old, great for beginners"
+  },
+  {
+    "name": "Guinea Pig",
+    "price": 3500,
+    "category": "others",
+    "image": "/images/guineaPig.jpg",
+    "description": "Adorable Guinea Pig, gentle and social, perfect for children"
+  }
+]
